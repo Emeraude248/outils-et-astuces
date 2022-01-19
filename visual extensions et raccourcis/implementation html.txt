@@ -1,0 +1,2 @@
+bien mettre l'implémentation ctrl + K + F
+avant tout sélectionner ctrl + A

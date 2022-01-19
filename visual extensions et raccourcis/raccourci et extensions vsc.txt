@@ -1,0 +1,8 @@
+Ctrl + ù > ouvre le terminal sur Visual Studio Code
+
+Alt + Ctrl + 7 puis A + Maj > à majuscule
+
+Ctrl + / texte en commentaire
+
+
+extensions prettier, settings > format on save, cocher et à chaque sauvegarde prettier replace les ; si besoin (et autres ?)
